@@ -1,4 +1,4 @@
-# Mục tiêu của tôi (7/3/2018)
+# Mục tiêu của tôi tới hết 2018 (7/3/2018)
 ---
 ## 1. Hoàn thiện khóa luận tốt (trên 9.5)
 ## 2. Thi chứng chỉ Toeic với (>800)
