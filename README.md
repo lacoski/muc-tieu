@@ -12,7 +12,7 @@
 - Tổ chức nhóm hệ thống (Đã làm nhưng chưa có kết quả như ý)
 - Được tiếp cận, đào sâu vào Openstack (Vừa System vừa code)
 - Thói quen đọc sách mỗi ngày
-- Bắt đầu việc blog
+- Bắt đầu viết blog
 - Mức lương đúng theo mục tiêu khi ra trường
 - [Ngoài ra](2018/done.md)
 
