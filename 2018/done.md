@@ -2,6 +2,7 @@
 ---
 ## Bản thân
 - Đăng ký khóa học tiếng anh
+- Thói quen đọc sách mỗi ngày
 - Hoàn thành tốt chương trình học Đại Học (8.2)
 - Hoàn thành tốt đồ án (10)
 - Có công việc chính thức, như ý. Tham gia vào dự án lớn
