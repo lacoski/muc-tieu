@@ -17,7 +17,7 @@
 - Tìm hiểu design pattern (Hiểu, ứng dụng 1 vài pattern cơ bản)
 - Áp dụng vào Django
 - Tìm hiểu, áp dụng Oslo project (Oslo service, Oslo messging, Oslo config)
-- Tìm hiểu Rabbit, ứng dụng RabbitMQ cùng Oslo messging
+- Tìm hiểu Rabbit, ứng dụng RabbitMQ cùng Oslo messaging
 - Nằm vùng nhiều project Opensource bằng python. Tham khảo, không ngừng nâng cao kiến thức.
 - Lập trình trên Lib Object storage (Boto3)
 - Lập trình trên API Openstack (Openstack API, Openstack SDK, Openstack Client)
